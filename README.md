@@ -9,3 +9,6 @@ correlation result summary folder:
 1. reward_, punishement_, mixed_corr.xlsx: save the r value for heatmap figure from the script corr_lierate_emotion.ipynb
 2. reward_, punishement_, mixed_pvalue.xlsx: save the p value for heatmap figure from the script corr_lierate_emotion.ipynb
 3. hddm_corr_value, hddm_pvalue.xlsx: save the r value and p value for heatmap figure from the script corr_hddm_emotion.ipynb
+
+## Figures:
+1. heatmap figure from the script corr_lierate_emotion.ipynb and corr_hddm_emotion.ipynb
