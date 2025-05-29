@@ -1,4 +1,4 @@
-# memory_dishonest-project, 
+# memory_dishonest-project
 ## Script:
 1. corr_lierate_emotion.ipynb: calculate the correlation between the liarate and emotion and behavoir performance drop, and plot the heatmap figure for correlation and save the correlation matrix. And mediation analysis is also included.
 2. emotion_compare_plot.ipynb: plot the emotion comparison figure, including the mean and standard deviation of each emotion, and save the figure.
