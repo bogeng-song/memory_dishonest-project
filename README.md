@@ -12,3 +12,6 @@ correlation result summary folder:
 
 ## Figures:
 1. heatmap figure from the script corr_lierate_emotion.ipynb and corr_hddm_emotion.ipynb
+
+## Mediation analysis:
+1. All mediation analysis results are saved in the folder "mediation_analysis", including the mediation analysis results for each emotion and the summary of the mediation analysis.
